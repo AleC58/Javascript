@@ -1,2 +1,2 @@
 # Javascript
-Esempi e documentazione su Javascript
+Esempi e documentazione su Javascript e JQuery
